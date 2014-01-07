@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">RCRemote</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RCRemote</string>
+    <string name="prefs_title">Preferences</string>
+    <string name="prefs_server_title">Server settings</string>
+    <string name="prefs_server_summary">Required settings to connect to the server.</string>
+    
+</resources>

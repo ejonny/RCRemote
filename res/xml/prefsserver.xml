@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="Server">
+        <EditTextPreference android:key="host" android:title="Hostname" android:defaultValue="0.0.0.0"/>
+        <EditTextPreference android:key="port" android:title="Port" android:defaultValue="8888"/>
+        <EditTextPreference android:key="freq" android:title="Update frequency (Hz)" android:defaultValue="10"/>
+    </PreferenceCategory>
+</PreferenceScreen>
